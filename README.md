@@ -1,5 +1,6 @@
 ng-bs-daterangepicker
 ---
+[![CDNJS](https://img.shields.io/cdnjs/v/ng-bs-daterangepicker.svg)](https://cdnjs.com/libraries/ng-bs-daterangepicker)
 
 Angular directive for Dan Grossman's [bootstrap-daterangepicker](https://github.com/dangrossman/bootstrap-daterangepicker).
 
